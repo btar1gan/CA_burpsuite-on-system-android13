@@ -27,7 +27,7 @@ chmod 644 9a5ba575.0 ; chmod root:root 9a5ba575.0
 
 3. (On emulator device) Try with the first method or the second method
 
-3. (On emulator device) Running emulator with writable system
+4. (On emulator device) Running emulator with writable system
 ### find avd data directory, see the avd name
 ### make sure the directory contain the .ini file (Pixel_6_API_31.ini)
 ### open PowerShell then cd to emulator path
